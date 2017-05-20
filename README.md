@@ -1,2 +1,3 @@
-# Credit-Scoring-Analysis
-Uses various classification models to analyse credit risk
+# Credit Scoring Analysis
+
+In this project various classification models are used to analyse credit risk. The main report is accompanied by a Markdown file containing the R code.
